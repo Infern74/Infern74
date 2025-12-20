@@ -35,4 +35,4 @@
 
 *   **Telegram:** [@InfeRn_7](https://t.me/InfeRn_7) (предпочтительный способ связи)
 *   **Email:** [antonignat7436@yandex.ru](mailto:antonignat7436@yandex.ru)
-*   **Резюме на HeadHunter:** [CV](https://rostov.hh.ru/resume/26ab4889ff0fb78ed70039ed1f783430586e4f)]
+*   **Резюме на HeadHunter:** [CV](https://rostov.hh.ru/resume/26ab4889ff0fb78ed70039ed1f783430586e4f)
