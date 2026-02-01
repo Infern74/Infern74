@@ -1,4 +1,10 @@
-# 👋 Привет, я Антон Игнатьев
+<h1 align="center">👨‍💻 Антон Игнатьев | Java Backend Developer</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Rostov--on--Don-blue?style=flat&logo=location" alt="Location">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=flat" alt="Open to Work">
+  <img src="https://img.shields.io/badge/Status-Actively%20Learning-orange?style=flat" alt="Status">
+</p>
 
 **Java Backend-разработчик** из Ростова-на-Дону.
 
