@@ -48,18 +48,6 @@ Backend-разработчик с фокусом на создание наде�
 | **[Shareit](https://github.com/Infern74/Shareit)** | Сервис для шеринга вещей. Полнофункциональный REST API с микросервисной архитектурой, бизнес-логикой бронирования, авторизацией и интеграцией между сервисами. | `Java` `Spring Boot` `Hibernate` `Maven` `REST API` |
 | **[java-filmorate](https://github.com/Infern74/java-filmorate)** | Бэкенд для сервиса рекомендаций фильмов. Спроектирована реляционная БД (7 таблиц), реализована сложная бизнес-логика (лайки, друзья, рекомендации), оптимизированы SQL-запросы. | `Java` `Spring Boot` `JDBC` `H2/PostgreSQL` `REST` |
 
----
-
-### 📊 Активность
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Infern74&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infern74&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages"/>
-</p>
-
-> **Текущий фокус:** Углубление знаний в микросервисной архитектуре, cloud-технологиях (AWS/GCP) и highload системах.
-
----
-
 ### 📈 Активность и статус
 
 *   **🔎 Открыт для предложений:** активно ищу позицию Java Developer.
@@ -71,3 +59,23 @@ Backend-разработчик с фокусом на создание наде�
 *   **Telegram:** [@InfeRn_7](https://t.me/InfeRn_7) (предпочтительный способ связи)
 *   **Email:** [antonignat7436@yandex.ru](mailto:antonignat7436@yandex.ru)
 *   **Резюме на HeadHunter:** [CV](https://rostov.hh.ru/resume/26ab4889ff0fb78ed70039ed1f783430586e4f)
+
+---
+
+### 📫 Контакты
+<p align="center">
+  <a href="https://t.me/InfeRn_7">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:antonignat7436@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://rostov.hh.ru/resume/26ab4889ff0fb78ed70039ed1f783430586e4f">
+    <img src="https://img.shields.io/badge/HeadHunter-FF3300?style=for-the-badge&logo=headhunter&logoColor=white" alt="HH.ru"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Готов выполнить тестовое задание и пройти собеседование</i><br>
+  <i>Предпочитаемый способ связи: Telegram</i>
+</p>
