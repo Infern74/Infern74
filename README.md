@@ -1,9 +1,6 @@
-<h1 align="center">👨‍💻 Антон Игнатьев | Java Backend Developer</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Location-Rostov--on--Don-blue?style=flat&logo=location" alt="Location">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=flat" alt="Open to Work">
-</p>
+# 👨‍💻 Антон Игнатьев | Java Backend Developer
 
+**📍 Ростов-на-Дону** | **🔍 Открыт к предложениям**
 ---
 
 ### 🚀 Обо мне
@@ -13,28 +10,21 @@ Backend-разработчик с фокусом на создание наде�
 
 ---
 
-### 🛠 Технологический стек
-<p align="center">
-  <!-- Языки -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <!-- Фреймворки -->
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security">
-  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
-  <!-- Базы данных -->
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <!-- Инструменты -->
-  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  
-  <!-- Тестирование -->
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
-  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" alt="Mockito">
-</p>
+## 🛠 Технологический стек
+
+### Основные технологии
+- **Языки программирования:** Java, SQL
+- **Фреймворки:** Spring Boot, Spring Security, Spring Data JPA, Spring MVC, Hibernate
+- **Базы данных:** PostgreSQL
+- **Инструменты сборки:** Apache Maven
+- **Контейнеризация:** Docker, Docker Compose
+
+### Дополнительные навыки
+- **Тестирование:** JUnit, Mockito, Testcontainers
+- **Системы контроля версий:** Git, GitHub
+- **CI/CD:** GitHub Actions
+- **Архитектура:** REST API, микросервисы, слоистая архитектура
+- **Документация:** OpenAPI (Swagger)
 
 ---
 
@@ -48,17 +38,14 @@ Backend-разработчик с фокусом на создание наде�
 
 ---
 
-### 📈 Активность и статус
+## 📈 Активность и статус
 
-*   **🔎 Открыт для предложений:** активно ищу позицию Java Developer.
-*   **📚 Постоянно учусь:** углубляю знания в области микросервисной архитектуры, cloud-технологий (AWS/GCP) и высоконагруженных систем.
+- **🔎 Открыт для предложений:** активно ищу позицию Java Developer.
+- **📚 Постоянно учусь:** углубляю знания в области микросервисной архитектуры, cloud-технологий (AWS/GCP) и высоконагруженных систем.
+- **💼 Готов выполнить тестовое задание** и пройти собеседование.
 
 ### 📫 Как со мной связаться
 
 *   **Telegram:** [@InfeRn_7](https://t.me/InfeRn_7) (предпочтительный способ связи)
 *   **Email:** [antonignat7436@yandex.ru](mailto:antonignat7436@yandex.ru)
 *   **Резюме на HeadHunter:** [CV](https://rostov.hh.ru/resume/26ab4889ff0fb78ed70039ed1f783430586e4f)
-
-<p align="center">
-  <i>Готов выполнить тестовое задание и пройти собеседование</i><br>
-</p>
