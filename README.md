@@ -1,4 +1,4 @@
-<h1 align="center"> 👨‍💻 Антон Игнатьев | Java Backend Developer </h1>
+#👨‍💻 Антон Игнатьев | Java Backend Developer
 
 **📍 Ростов-на-Дону** | **🔍 Открыт к предложениям**
 
