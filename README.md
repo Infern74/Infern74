@@ -1,5 +1,4 @@
 <h1 align="center">👨‍💻 Антон Игнатьев | Java Backend Developer</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Rostov--on--Don-blue?style=flat&logo=location" alt="Location">
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=flat" alt="Open to Work">
@@ -48,6 +47,18 @@ Backend-разработчик с фокусом на создание наде�
 | **[java-EveryWhere-Meet](https://github.com/Infern74/java-EveryWhere-Meet)** | Бэкенд сервиса для организации мероприятий (аналог Meetup). Реализована микросервисная архитектура с отдельным сервисом статистики, настроен CI/CD пайплайн. | `Java` `Spring Boot` `Docker` `PostgreSQL` `REST` |
 | **[Shareit](https://github.com/Infern74/Shareit)** | Сервис для шеринга вещей. Полнофункциональный REST API с микросервисной архитектурой, бизнес-логикой бронирования, авторизацией и интеграцией между сервисами. | `Java` `Spring Boot` `Hibernate` `Maven` `REST API` |
 | **[java-filmorate](https://github.com/Infern74/java-filmorate)** | Бэкенд для сервиса рекомендаций фильмов. Спроектирована реляционная БД (7 таблиц), реализована сложная бизнес-логика (лайки, друзья, рекомендации), оптимизированы SQL-запросы. | `Java` `Spring Boot` `JDBC` `H2/PostgreSQL` `REST` |
+
+---
+
+### 📊 Активность
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Infern74&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Infern74&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages"/>
+</p>
+
+> **Текущий фокус:** Углубление знаний в микросервисной архитектуре, cloud-технологиях (AWS/GCP) и highload системах.
+
+---
 
 ### 📈 Активность и статус
 
