@@ -3,23 +3,41 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Rostov--on--Don-blue?style=flat&logo=location" alt="Location">
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success?style=flat" alt="Open to Work">
-  <img src="https://img.shields.io/badge/Status-Actively%20Learning-orange?style=flat" alt="Status">
 </p>
 
-**Java Backend-разработчик** из Ростова-на-Дону.
+---
 
-Мой путь в программировании — это стремление к созданию элегантных, эффективных и масштабируемых backend-решений. Вижу в коде не просто инструмент, а возможность решать сложные системные задачи. Активно развиваюсь, изучаю best practices, архитектурные паттерны и современный стек технологий.
+### 🚀 Обо мне
+Backend-разработчик с фокусом на создание надежных и масштабируемых сервисов на Java. Уверенно владею современным стеком Spring экосистемы. Вижу в программировании не только инструмент, но и искусство создания эффективных систем с четкой архитектурой. Постоянно совершенствуюсь, изучаю микросервисную архитектуру, паттерны проектирования и best practices.
+
+**Ценности:** Чистый код, надежность, масштабируемость, постоянное развитие.
+
+---
 
 ### 🛠 Технологический стек
-*   **Язык:** Java
-*   **Фреймворки:** Spring Boot, Spring Security, Spring Data JPA, Spring MVC
-*   **ORM / Базы данных:** Hibernate, PostgreSQL, SQL
-*   **Инструменты сборки:** Apache Maven
-*   **Тестирование:** JUnit, Mockito
-*   **Контейнеризация:** Docker
-*   **Архитектура:** REST API, микросервисы
-*   **Системы контроля версий:** Git, GitHub
-*   **IDE:** IntelliJ IDEA
+<p align="center">
+  <!-- Языки -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <!-- Фреймворки -->
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security">
+  <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+  <!-- Базы данных -->
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <!-- Инструменты -->
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+  
+  <!-- Тестирование -->
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge" alt="Mockito">
+</p>
+
+---
 
 ### 🚀 Мои ключевые проекты
 
